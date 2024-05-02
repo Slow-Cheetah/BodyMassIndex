@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BodyMassIndex</string>
+    <string name="input_hind">Введите значение</string>
+    <string name="mass">Ваш вес (кг):</string>
+    <string name="height">Ваш рост (см):</string>
+    <string name="calc">Рассчитать</string>
+    <string name="title_bmi">Ваш ИМТ:</string>
+    <string name="bmi_result">результат</string>
+    <string name="recommend_title">Рекомендации:</string>
+    <string name="recommend_hind">Тут будет загружен список</string>
+</resources>
